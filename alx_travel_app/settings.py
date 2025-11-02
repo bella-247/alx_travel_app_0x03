@@ -1,3 +1,4 @@
+
 """
 Django settings for alx_travel_app project.
 
@@ -165,3 +166,4 @@ CELERY_TIMEZONE = "Africa/Addis_Ababa"
 # Email Configuration (adjust as needed)
 EMAIL_BACKEND = "django.core.mail.backends.console.EmailBackend"
 DEFAULT_FROM_EMAIL = "noreply@alxtravel.com"
+
